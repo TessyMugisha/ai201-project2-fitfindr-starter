@@ -2,6 +2,8 @@
 
 A multi-tool AI agent that helps you find secondhand pieces and figure out how to wear them. You describe what you're looking for, and the agent searches listings, builds an outfit around the top find using your wardrobe, and writes a shareable caption for the look. It decides which tools to call based on what each step returns, and handles the messy cases where a tool finds nothing or gets bad input.
 
+**Demo video:** https://www.loom.com/share/86109dffad5b4296933fddae22021fd7
+
 ## Setup
 
 ```bash
